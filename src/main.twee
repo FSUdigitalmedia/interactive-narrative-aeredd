@@ -1,0 +1,19 @@
+:: StoryData
+{
+    "ifid": "6653F225-AA7C-4F0E-9EF3-1DC8EA4F096F",
+    "format": "SugarCube",
+    "format-version": "2.34.1"
+}
+
+:: StoryTitle
+The Friday Night Killer
+
+:: StoryInit
+
+
+:: Start
+It's Friday night, you and your best friend- 
+Name your bestfriend (TEXTBOX OF CHOOSING NAME)
+You and (RIGHT NAME), are sitting on the couch when a breaking news alert interrupts your tv program. 
+
+[[Turn up tv volume|tv]]

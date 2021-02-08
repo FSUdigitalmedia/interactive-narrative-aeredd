@@ -1,0 +1,7 @@
+:: off
+You and (name picked) look at each other in (emotion player chooses off of options)
+
+You both decide you are staying in tonight. 
+
+[[get up and lock the door|door]]
+[[get up and make some popcorn|popcorn]]
