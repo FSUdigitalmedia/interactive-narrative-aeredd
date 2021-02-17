@@ -6,7 +6,7 @@ thousands of results pop up.. you think to yourself he must have a pretty common
 
 you eventually find his profile
 
-and you know it is his, because (bestfriend's name) follows him
+and you know it is his, because <<print $name>> follows him
 
 you look through his profile and his [randomly generate number of posts]
 

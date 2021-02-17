@@ -12,6 +12,6 @@ you turn on the news
 
     your bestfriends pic appears on the screen 
 
-    she is dead 
+    <<print $name>> is dead 
 
-        and (loverboy) was the killer
+        and <<print $loverboy>> was the killer

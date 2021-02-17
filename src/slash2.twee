@@ -1,6 +1,6 @@
 :: slash 2
 
-(best friend) walks outside
+<<print $name>> walks outside
 
 YOU PSYCHOPATH, she screams
 I'M NEVER TALKING TO YOU again
@@ -9,6 +9,6 @@ I'M NEVER TALKING TO YOU again
     who are you
     what did you just do
 
-before you can say anything, (loverboy) pulls up and (bestfriend) hops in his car
+before you can say anything, <<print $loverboy>> pulls up and <<print $name>> hops in his car
 
 [[you head back inside|inside]]

@@ -2,7 +2,7 @@
 
 she has not said a word to.. even when you talk to her, you get no response from her.. not even a peep
 
-you offer to bring her home
+you offer to bring <<print $name>> home
 
         she states she will walk
 

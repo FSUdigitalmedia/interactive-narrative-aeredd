@@ -1,8 +1,8 @@
 :: weeks
 
-since no word from (bestfriend)
+since no word from <<print $name>>
 
-but from your active social media checking, she has been with (loverboy) everyday since
+but from your active social media checking, she has been with <<print $loverboy>> everyday since
 
 hey least she is still alive
 

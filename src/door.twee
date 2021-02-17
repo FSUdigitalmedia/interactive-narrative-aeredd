@@ -1,6 +1,6 @@
 :: door
 
-when getting up to lock the door, you notice your best friend texting some like crazy
+when getting up to lock the door, you notice <<print $name>> texting some like crazy
 
 her phone is blowing up 
 

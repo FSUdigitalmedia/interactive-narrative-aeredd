@@ -6,7 +6,7 @@ you give your order to the lady at the counter
 
 (TEXT BOX FOR COFFE ORDER)
 
-as you are ordering you see your bestfriend run and jump into (nicknames) arms
+as you are ordering you see <<print $name>> run and jump into <<print $loverboy>> arms
 
 they immediately go sit at a table, since he already has a coffee ready for her. 
 

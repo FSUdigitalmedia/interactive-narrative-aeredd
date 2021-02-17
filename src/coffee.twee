@@ -13,6 +13,6 @@ you grab your coffee and go sit down with him
 
 y'all talk some
 
-    (bestfriends name) accidently spills her coffee and of course it spills into your lap 
+   <<print $name>> accidently spills her coffee and of course it spills into your lap 
 
     [[you quickly stand up|stand]]

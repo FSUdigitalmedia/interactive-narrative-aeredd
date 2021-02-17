@@ -6,6 +6,6 @@ It's him
 
 shocker.
 
-We shall give him a nickname (insert text box with lover boy already in)
+We shall give him a nickname <<textbox "$loverboy" "LoverBoy" "later" autofocus>>
 
 [[days later|later]]

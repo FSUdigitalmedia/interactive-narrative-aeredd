@@ -1,5 +1,5 @@
 :: off
-You and (name picked) look at each other in (emotion player chooses off of options)
+You and <<print $name>> look at each other in (emotion player chooses off of options)
 
 You both decide you are staying in tonight. 
 

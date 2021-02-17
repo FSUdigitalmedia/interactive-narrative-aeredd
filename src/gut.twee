@@ -1,6 +1,6 @@
 :: gut
 
-you check your (bestfriend)'s location 
+you check your <<print $name>>'s location 
 
         luckily she didn't unadd you on that 
 

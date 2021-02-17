@@ -8,12 +8,11 @@
 :: StoryTitle
 The Friday Night Killer
 
-:: StoryInit
 
 
 :: Start
 It's Friday night, you and your best friend- 
-Name your bestfriend (TEXTBOX OF CHOOSING NAME)
-You and (RIGHT NAME), are sitting on the couch when a breaking news alert interrupts your tv program. 
+Name your bestfriend <<textbox "$name" "Brittany" "tv" autofocus>>
+You are both sitting on the couch when a breaking news alert interrupts your tv program. 
 
 [[Turn up tv volume|tv]]

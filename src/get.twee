@@ -1,6 +1,6 @@
 :: get
 
-your coffee covered self waits in the car, while (bestfriend nickname) and (loverboy nickname) have their makeout session goodbye
+your coffee covered self waits in the car, while <<print $name>> and <<print $loverboy>> have their makeout session goodbye
 
         you notice a something neon green and sparkly coming out of his back pocket
 
