@@ -1,6 +1,6 @@
 :: coffee
 
-(COFFEE ORDER) ready
+<<print $coffee>> ready
 
 you grab your coffee and go sit down with him 
 

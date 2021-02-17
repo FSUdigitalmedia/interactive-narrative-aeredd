@@ -4,7 +4,7 @@ you scan the room for him, you do not see him
 
 you give your order to the lady at the counter
 
-(TEXT BOX FOR COFFE ORDER)
+your coffee order: <<textbox "$coffee" "" "coffee" autofocus>>
 
 as you are ordering you see <<print $name>> run and jump into <<print $loverboy>> arms
 
