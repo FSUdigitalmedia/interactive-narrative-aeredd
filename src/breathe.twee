@@ -1,0 +1,12 @@
+:: breath
+
+you grab a loose brick from the wall
+
+
+>> you grip it tight 
+
+the door creeks open, light entering from a large flashlight he is holding
+
+it blinds you and <<print $name>>
+
+[[you throw the brick with every bit of adrenaline in you|brick]]

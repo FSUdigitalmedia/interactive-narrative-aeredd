@@ -1,13 +1,13 @@
 :: slash 2
-
+[img[../assets/flat2.jpg][slash 1]]
 <<print $name>> walks outside
 
 YOU PSYCHOPATH, she screams
 I'M NEVER TALKING TO YOU again
 
-    you look at yourself in the reflection of the window... 
-    who are you
-    what did you just do
+>>you look at yourself in the reflection of the window... 
+>>//who are you//
+>>//what did you just do
 
 before you can say anything, <<print $loverboy>> pulls up and <<print $name>> hops in his car
 

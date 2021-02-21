@@ -1,5 +1,9 @@
 :: off
-You and <<print $name>> look at each other in (emotion player chooses off of options)
+You and <<print $name>> look at each other in <<cycle "$emotion" autoselect>>
+<<option "worry">>
+<<option "fear">>
+<<option "shock">>
+<</cycle >>
 
 You both decide you are staying in tonight. 
 

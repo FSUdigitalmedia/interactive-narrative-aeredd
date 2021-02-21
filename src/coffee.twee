@@ -1,18 +1,18 @@
 :: coffee
 
-<<print $coffee>> ready
+<<print $coffee>> is ready! the barista politely yells
 
 you grab your coffee and go sit down with him 
 
 "nice to meet you"
-    he awkwardly grabs your hand and graises up to your elbow
+>>he awkwardly grabs your hand and graises up to your elbow
 
-
-                        ew, that was weird 
-                            you ignore it, people have their moments
+>>// ew, that was weird//
+>>//you ignore it, people have their moments//
 
 y'all talk some
 
+then
    <<print $name>> accidently spills her coffee and of course it spills into your lap 
 
-    [[you quickly stand up|stand]]
+[[you quickly stand up|stand]]

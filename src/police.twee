@@ -1,0 +1,7 @@
+:: police
+
+<<print $name>> is taken for a medical check 
+
+and you begin giving your statement of what happened to the officer
+
+[[start from the beginning|start]]

@@ -13,6 +13,6 @@ you get a bad feeling
 shining your flashlight around
 you call out <<print $name>>
 
-you hear what sounds like footsteps upstairs
+//you hear what sounds like footsteps coming from somewhere in the building//
 
-[[you look for stairs|stairs]]
+[[you starting walking in the direction of the footsteps|stairs]]

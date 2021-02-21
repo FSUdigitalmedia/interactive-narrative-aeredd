@@ -1,0 +1,14 @@
+:: help
+
+you suddenly hear the footsteps again
+
+>> <<print $name>> looks at you with her eyes wide 
+>> he's coming she whispers to you
+
+//panicking you try and find another exit//
+
+you don't see another way out
+
+the footsteps are getting louder
+
+[[you try and call 911|911]]

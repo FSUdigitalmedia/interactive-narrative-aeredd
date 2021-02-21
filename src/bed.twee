@@ -4,14 +4,13 @@ you wake up the next morning
 
 your phone is blowing up
 
-    telling you to turn on the news and how sorry they are
+>>telling you to turn on the news and how sorry they are
 
-        your stomach drops
+>>//your stomach drops
 
 you turn on the news
 
-    your bestfriends pic appears on the screen 
+>>your bestfriends pic appears on the screen 
 
-    <<print $name>> is dead 
-
-        and <<print $loverboy>> was the killer
+>><<print $name>> is dead 
+>>and <<print $loverboy>> was the killer

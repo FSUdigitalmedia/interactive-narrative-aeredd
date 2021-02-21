@@ -16,3 +16,8 @@ Name your bestfriend <<textbox "$name" "Brittany" "tv" autofocus>>
 You are both sitting on the couch when a breaking news alert interrupts your tv program. 
 
 [[Turn up tv volume|tv]]
+
+
+
+:: StoryInit
+<<set $randomposts to random(3,7)>>

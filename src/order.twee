@@ -1,6 +1,6 @@
 :: order
 
-you scan the room for him, you do not see him 
+you scan the room for him, and don't see him 
 
 you give your order to the lady at the counter
 
@@ -10,7 +10,7 @@ as you are ordering you see <<print $name>> run and jump into <<print $loverboy>
 
 they immediately go sit at a table, since he already has a coffee ready for her. 
 
-        did they already forget you existed??? 
+>> //did they already forget you existed???//
 
 
 [[wait for your coffee|coffee]]
