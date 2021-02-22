@@ -1,2 +1,2 @@
 # The Friday Night Killer
-There is a serial killer in your town, play to discover who it is. 
+There is a serial killer loose in your town, play to discover who it is. 
