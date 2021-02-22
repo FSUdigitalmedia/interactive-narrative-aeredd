@@ -1,5 +1,5 @@
 :: slash 2
-[img[../assets/flat2.jpg][slash 1]]
+[img[assets/flat2.jpg][slash 1]]
 <<print $name>> walks outside
 
 YOU PSYCHOPATH, she screams
