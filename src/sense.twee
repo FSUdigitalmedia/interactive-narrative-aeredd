@@ -1,6 +1,6 @@
 :: sense 
 
-<<print $names>> and other officer walk back into the room 
+<<print $name>> and other officer walk back into the room 
 
 you hug <<print $name>>
 

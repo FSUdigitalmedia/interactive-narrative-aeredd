@@ -1,6 +1,6 @@
 :: home
 
-the first thing you do when you get home is search for your lucky underwear
+the first thing you do when you get home is search for your <h4 style="color:MediumSeaGreen;">lucky underwear</h4>
 
 you ''RANSACK'' the house
 
@@ -9,6 +9,6 @@ you ''RANSACK'' the house
 
 you're gut is telling you that they are in <<print $loverboy>> 's back pocket...
 
-you need evidence he is a creep 
+you need evidence that he is a creep 
 
 [[start digging|digging]]
